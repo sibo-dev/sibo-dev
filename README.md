@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cbonkosi" target="blank"><img src="https://img.shields.io/twitter/follow/cbonkosi?logo=twitter&style=for-the-badge" alt="cbonkosi" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Algorithmic Theory**
+- 🌱 I’m currently learning **Advanced Algorithmic Theory & Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sibo-dev](https://github.com/sibo-dev)
 
