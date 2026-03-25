@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sibonelo Nkosi</h1>
 
 <h3 align="center">
-A Full-Stack Developer with a Data Science background. I work mostly on problem-solving projects and not really a code-for-hire type of individual. I prefer analyst work with high-level views before working on actual coding tasks.
+A Full-Stack Developer with a Data Science background. I work mostly on problem-solving projects and I excel at performing complex tasks even when outcomes aren't fully defined. I am fully capable with speaking to the boardroom, a layman or guiding a team of developers to meeting their sprint goals.
 </h3>
 
 <p align="left">
